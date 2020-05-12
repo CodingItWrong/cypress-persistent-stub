@@ -3,5 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Josh Justice <josh.justice@accesscfa.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "serve src"
+  },
+  "devDependencies": {
+    "serve": "^11.3.0"
+  }
 }
