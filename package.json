@@ -5,9 +5,12 @@
   "author": "Josh Justice <josh.justice@accesscfa.com>",
   "license": "MIT",
   "scripts": {
-    "start": "serve src"
+    "start": "serve src",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
   },
   "devDependencies": {
+    "cypress": "^4.5.0",
     "serve": "^11.3.0"
   }
 }
