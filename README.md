@@ -16,7 +16,7 @@ This repo demonstrates a difference between the Cypress GUI and CLI in how they 
 
 - `a.spec.js` succeeds when run alone in CLI or GUI
 - `b.spec.js` fails when run alone in CLI or GUI
-- Running whole suite succeeds in GUI, but fails in CLI.
+- Running whole suite succeeds in GUI via "Run all specs", but fails in CLI.
 
 ## Analysis
 
